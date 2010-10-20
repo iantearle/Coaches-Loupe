@@ -1,0 +1,5 @@
+- Get MacRuby from http://www.macruby.org/ and install it
+- compile:
+ > macrake
+- build app:
+ > macrake deploy 
